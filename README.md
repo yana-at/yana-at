@@ -10,4 +10,4 @@
 </p>
 
 
-<pre align="center">there's nothing here for you to see!</pre>
+<pre align="center">now leave, since there's nothing here for you to see!</pre>
