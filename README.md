@@ -1,5 +1,5 @@
 
-<pre align="center">you've discovered yana's secret work account!</pre>
+<pre align="center">congrats, you've discovered my work account!</pre>
 <br>
 <br>
 <p align="center">
@@ -10,4 +10,3 @@
 </p>
 
 
-<pre align="center">now leave, since there's nothing here for you to see!</pre>
